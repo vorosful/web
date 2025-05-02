@@ -48,6 +48,36 @@
   category: general
 
 # Conferences
+# 2025
+
+- name: qm25
+  description: 'Quark Matter (2025)'
+  category: conference
+
+- name: moriond25
+  description: 'Rencontres de Moriond (2025)'
+  category: conference
+
+- name: dis25
+  description: 'Deep Inelastic Scattering (2025)'
+  category: conference
+
+- name: ghp25
+  description: 'APS Topical Group on Hadronic Physics (2025)'
+  category: conference
+
+- name: athic25
+  description: 'Asian Triangle Heavy-Ion Conference (2025)'
+  category: conference
+
+- name: hotjets25
+  description: 'Hot Jets (2025)'
+  category: conference
+
+- name: hepch25
+  description: 'High Energy Nuclear and Particle Physics in the LHC Era (2025)'
+  category: conference
+
 # 2024
 
 - name : tdhep24
