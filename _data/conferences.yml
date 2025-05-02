@@ -1,3 +1,46 @@
+# 2025
+
+- name: qm25
+  title: 'Quark Matter (2025)'
+  url: 'https://indico.cern.ch/event/1334113/'
+  year: 2025
+
+
+- name: moriond25
+  title: 'Rencontres de Moriond (2025)'
+  url: 'https://indico.cern.ch/event/1480248/'
+  year: 2025
+
+
+- name: dis25
+  title: 'Deep Inelastic Scattering (2025)'
+  url: 'https://indico.cern.ch/event/1436959/'
+  year: 2025
+
+
+- name: ghp25
+  title: 'APS Topical Group on Hadronic Physics (2025)'
+  url: 'https://indico.jlab.org/event/868/'
+  year: 2025
+
+
+- name: athic25
+  title: 'Asian Triangle Heavy-Ion Conference (2025)'
+  url: 'https://indico.cern.ch/event/1424442/'
+  year: 2025
+
+
+- name: hotjets25
+  title: 'Hot Jets (2025)'
+  url: 'https://indico.cern.ch/event/1416077/'
+  year: 2025
+
+
+- name: hepch25
+  title: 'High Energy Nuclear and Particle Physics in the LHC Era'
+  url: 'https://indico.global/event/8670/'
+  year: 2025
+
 # 2024
 
 - name: tdhep24
